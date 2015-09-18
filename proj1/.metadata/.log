@@ -1,0 +1,40 @@
+!SESSION 2015-02-21 21:49:04.129 -----------------------------------------------
+eclipse.buildId=debbuild
+java.version=1.7.0_75
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.core.resources 4 77 2015-02-21 21:49:52.170
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2015-02-21 21:49:52.170
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2015-02-21 21:49:52.170
+!MESSAGE /home/cpaul/Documents/313/proj1 overlaps the workspace location: /home/cpaul/Documents/313/proj1
+!SESSION 2015-02-21 21:51:42.735 -----------------------------------------------
+eclipse.buildId=debbuild
+java.version=1.7.0_75
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.core.resources 4 77 2015-02-21 21:52:26.652
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2015-02-21 21:52:26.652
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2015-02-21 21:52:26.652
+!MESSAGE /home/cpaul/Documents/313/proj1 overlaps the workspace location: /home/cpaul/Documents/313/proj1
+
+!ENTRY org.eclipse.core.resources 4 77 2015-02-21 21:53:04.522
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2015-02-21 21:53:04.522
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2015-02-21 21:53:04.522
+!MESSAGE /home/cpaul/Documents/313/proj1 overlaps the workspace location: /home/cpaul/Documents/313/proj1
+
+!ENTRY org.eclipse.core.resources 4 77 2015-02-21 22:03:36.068
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2015-02-21 22:03:36.068
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2015-02-21 22:03:36.068
+!MESSAGE /home/cpaul/Documents/313/proj1 overlaps the workspace location: /home/cpaul/Documents/313/proj1
